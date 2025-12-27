@@ -64,7 +64,6 @@ I’m a **software developer** exploring **frontend and backend development**, f
 
 ### ☁️ Cloud & Platforms  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
 </p>
 
