@@ -90,7 +90,7 @@ Full Stack Developer • MERN Stack Developer • Software Engineer • Building
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00ff9f">
   </a>
 
-  <a href="https://linkedin.com/in/saniya-gupta">
+  <a href="linkedin.com/in/saniya-gupta-8a3a47292/">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00ff9f">
   </a>
 
