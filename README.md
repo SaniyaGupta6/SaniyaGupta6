@@ -1,133 +1,101 @@
-<h1 align="center">
-  👋 Hi, I'm Saniya Gupta
-</h1>
+<h1 align="left">Saniya Gupta</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Frontend+%26+Backend+Enthusiast;Building+Clean+%26+Scalable+Applications" />
+<p align="left">
+Full Stack Developer • MERN Stack Developer • Software Engineer • Building Scalable Web Applications
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;React+%2B+Next.js+Developer;Node.js+Backend;Building+Scalable+Applications&color=00ff9f&width=500&height=30">
 </p>
 
 ---
 
-## 🙋‍♀️ About Me  
+## 📊 Profile Insights
 
-I’m a **software developer** exploring **frontend and backend development**, focused on building **clean, scalable applications** through hands-on projects and improving **user experience** with quality code.
-
-- 🎓 Currently learning **Full-Stack Web Development**
-- 💻 Interested in **Frontend, Backend & UI/UX**
-- 🌱 Improving **React, JavaScript, Java, DSA & Backend APIs**
-- 🎯 Goal: **Become a skilled Full-Stack Developer**
-
----
-
-## 🔭 What I'm Up To  
-
-- 🔭 Currently working on **A Full-Stack Web Application (React + Node.js)**
-- 🌱 Learning **Advanced React, Backend APIs, Databases & DSA**
-- 👯 Looking to collaborate on **Frontend or Full-Stack open-source projects**
-- 🤝 Seeking help with **Backend architecture & API design**
-- 💬 Ask me about **React, JavaScript, UI/UX basics, Java & DSA**
-- ⚡ Fun fact: **I love turning coffee into clean code ☕💻**
-
-
----
-
-## 🛠️ Languages & Tools  
-
-### 👨‍💻 Programming Languages  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaniyaGupta6&theme=github_dark"/>
 </p>
 
-### 🌐 Frontend Development  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaniyaGupta6&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaniyaGupta6&theme=github_dark"/>
 </p>
 
-### 🧠 Backend Development  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-</p>
-
-### 🗄️ Databases  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
-</p>
-
-### ☁️ Cloud & Platforms  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
-</p>
-
-### 🎨 Design & Tools  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45"/>
-</p>
-
-### 🤖 Other Technologies  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaniyaGupta6&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaniyaGupta6&theme=github_dark&utcOffset=5.5"/>
 </p>
 
 ---
 
-## 📚 Currently Learning  
-- 🔹 Data Structures & Algorithms  
-- 🔹 Backend Development & API Design  
-- 🔹 Full-Stack Real-World Projects  
+## ⚡ Performance
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaniyaGupta6&show_icons=true&hide_border=true&theme=github_dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaniyaGupta6&hide_border=true&theme=github_dark"/>
+</p>
 
 ---
 
-## 👨‍💻 Projects & Work  
+## 🧠 Tech Stack
 
-- 👨‍💻 All of my projects are available at:  
-  👉 **https://github.com/SaniyaGupta6**
+### Languages
+![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=00ff9f)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=00ff9f)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=00ff9f)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=00ff9f)
 
-- 📄 Resume & Portfolio:  
-  👉 **Updating soon**
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=00ff9f)
+![CSS](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=00ff9f)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=00ff9f)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=00ff9f)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=00ff9f)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=00ff9f)
+![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=00ff9f)
+![REST](https://img.shields.io/badge/REST_API-0f172a?style=for-the-badge&logoColor=00ff9f)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=00ff9f)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=00ff9f)
+
+### AI / ML
+![OpenCV](https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge&logo=opencv&logoColor=00ff9f)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0f172a?style=for-the-badge&logoColor=00ff9f)
+![Generative AI](https://img.shields.io/badge/Generative_AI-0f172a?style=for-the-badge&logoColor=00ff9f)
+![LLMs](https://img.shields.io/badge/LLMs-0f172a?style=for-the-badge&logoColor=00ff9f)
+
+### Cloud / DevOps
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=00ff9f)
+![Azure](https://img.shields.io/badge/Azure-0f172a?style=for-the-badge&logo=microsoftazure&logoColor=00ff9f)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=00ff9f)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00ff9f)
 
 ---
 
-## 🤝 Connect With Me  
+## 📊 Contributions
 
-<a href="https://github.com/SaniyaGupta6">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaniyaGupta6&bg_color=0d1117&color=00ff9f&line=00ff9f&point=ffffff&area=true&hide_border=true"/>
+</p>
 
-<a href="https://www.instagram.com/saniya_gupta578/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/saniya-gupta-8a3a47292/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 🔗 Links
 
-<a href="https://leetcode.com/u/Saniya_gupta06/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<p align="left">
+  <a href="https://github.com/SaniyaGupta6">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00ff9f">
+  </a>
 
-<a href="https://codeforces.com/profile/gsanya029">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/saniya-gupta">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00ff9f">
+  </a>
 
   <a href="mailto:gsanya029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00ff9f">
   </a>
-  
-</p>
 
----
-
-<p align="center">
-  ⭐ Thanks for visiting! Happy Coding 🚀
 </p>
